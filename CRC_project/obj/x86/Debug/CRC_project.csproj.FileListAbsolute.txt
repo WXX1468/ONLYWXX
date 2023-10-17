@@ -1,0 +1,8 @@
+C:\Users\wenxuexiang\Desktop\CRC_cal\CRC_project\bin\x86\Debug\CRC_project.exe
+C:\Users\wenxuexiang\Desktop\CRC_cal\CRC_project\bin\x86\Debug\CRC_project.pdb
+C:\Users\wenxuexiang\Desktop\CRC_cal\CRC_project\obj\x86\Debug\CRC_project.Form1.resources
+C:\Users\wenxuexiang\Desktop\CRC_cal\CRC_project\obj\x86\Debug\CRC_project.Properties.Resources.resources
+C:\Users\wenxuexiang\Desktop\CRC_cal\CRC_project\obj\x86\Debug\CRC_project.csproj.GenerateResource.cache
+C:\Users\wenxuexiang\Desktop\CRC_cal\CRC_project\obj\x86\Debug\CRC_project.csproj.CoreCompileInputs.cache
+C:\Users\wenxuexiang\Desktop\CRC_cal\CRC_project\obj\x86\Debug\CRC_project.exe
+C:\Users\wenxuexiang\Desktop\CRC_cal\CRC_project\obj\x86\Debug\CRC_project.pdb
